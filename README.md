@@ -1,6 +1,6 @@
 # functional-annotation-genomic-proteomic-data
 
-** Toronto Bioinformatics Hackathon, 2024**
+**Toronto Bioinformatics Hackathon, 2024**
 
 A tool for comprehensive functional annotation of genes and proteins using sequence similarity, domain identification, and pathway mapping.
 
